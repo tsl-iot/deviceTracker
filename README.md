@@ -11,9 +11,9 @@
 ## ABQ BioPark
 |      Device      |    Serial Number        | Task |          Location   |
 |------------------|-------------------------|------|-------------|
-| ???       | ???| Growing Bed Moisture  |Botanical Garden growing area |
-| ???        | ???| Pumpkin Monitor |Botanical Garden growning area |
-| ESP32-CAM        | NA| Pumpkin Observation |Botanical Garden growning area |
+| peony      | e00fce68f191f80f6d3b600f| Growing Bed Moisture  |Botanical Garden growing area |
+| ???        | ???| Pumpkin Monitor |Botanical Garden growing area |
+| ESP32-CAM        | NA| Pumpkin Observation |Botanical Garden growing area |
 | ???        | ???| Central Moniotr - LoRa hub  |Zoo greenhouse|
 | ???       | ???| East Monitor (BLE) | Zoo greenhouse|
 | ???       | ???| West Monitor (BLE) | Zoo greenhouse|
