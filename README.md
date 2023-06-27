@@ -12,11 +12,11 @@
 |      Device      |    Serial Number        | Task |          Location   |
 |------------------|-------------------------|------|-------------|
 | peony      | e00fce68f191f80f6d3b600f| Growing Bed Moisture  |Botanical Garden growing area |
-| ???        | ???| Pumpkin Monitor |Botanical Garden growing area |
+| gourd        | e00fce687c3cd37e8c9204d9| Pumpkin Monitor |Botanical Garden growing area |
 | ESP32-CAM        | NA| Pumpkin Observation |Botanical Garden growing area |
 | Heliconia    | e00fce687d7906d0fcf23455| Central Moniotr - LoRa hub  |Zoo greenhouse|
 | ???       | ???| East Monitor (BLE) | Zoo greenhouse|
-| ???       | ???| West Monitor (BLE) | Zoo greenhouse|
+| vernon       | e00fce6805f6bcfa778f66a1| West Monitor (BLE) | Zoo greenhouse|
 
 ### Botanical Garden access point (CradlePoint from city):
 * SSID: CNMIOT
