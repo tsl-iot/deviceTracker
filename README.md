@@ -28,6 +28,9 @@
 | CenturyOne       | e00fce687131b33d2d92f1c8| Room Humidity/VOCs  | Century Sign |
 | ???        | ???| Fan Controller |Century Sign |
 
+### Century Sign WiFi
+* SSID: CSBWiFi
+* PASS: CSB2117!
 
 ## City of Albuquerque
 |      Device      |    Serial Number        | Task |          Location   |
