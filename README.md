@@ -18,6 +18,10 @@
 | ???       | ???| East Monitor (BLE) | Zoo greenhouse|
 | ???       | ???| West Monitor (BLE) | Zoo greenhouse|
 
+### Botanical Garden access point (CradlePoint from city):
+* SSID: CNMIOT
+* PASS: hippopotamus
+
 ## NMMEP
 |      Device      |    Serial Number        | Task |          Location   |
 |------------------|-------------------------|------|-------------|
