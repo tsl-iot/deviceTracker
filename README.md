@@ -14,7 +14,7 @@
 | peony      | e00fce68f191f80f6d3b600f| Growing Bed Moisture  |Botanical Garden growing area |
 | ???        | ???| Pumpkin Monitor |Botanical Garden growing area |
 | ESP32-CAM        | NA| Pumpkin Observation |Botanical Garden growing area |
-| ???        | ???| Central Moniotr - LoRa hub  |Zoo greenhouse|
+| Heliconia    | e00fce687d7906d0fcf23455| Central Moniotr - LoRa hub  |Zoo greenhouse|
 | ???       | ???| East Monitor (BLE) | Zoo greenhouse|
 | ???       | ???| West Monitor (BLE) | Zoo greenhouse|
 
