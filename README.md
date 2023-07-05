@@ -8,6 +8,12 @@
 | cadmiumfist        | e00fce68407bea0843f76bf5| Fan Controller  |FUSE - Laser Room |
 | mercuryfist       | e00fce68d1612990b3d7f1a5| Propane Scale | FUSE - propane tank|
 
+## Roomba Robots
+|      Device      |    Serial Number        | Task |          Location   |
+|------------------|-------------------------|------|-------------|
+|        | | IoT Assignment  |IoT Classroom |
+| void        | e00fce681943526ab5427418| Android Development |STEMulus |
+
 ## ABQ BioPark
 |      Device      |    Serial Number        | Task |          Location   |
 |------------------|-------------------------|------|-------------|
