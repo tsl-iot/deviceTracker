@@ -22,7 +22,7 @@
 | ESP32-CAM        | NA| Pumpkin Observation |Botanical Garden growing area |
 | Heliconia    | e00fce687d7906d0fcf23455| Central Moniotr - LoRa hub  |Zoo greenhouse|
 | ???       | ???| East Monitor (BLE) | Zoo greenhouse|
-| vernon       | e00fce6805f6bcfa778f66a1| West Monitor (BLE) | Zoo greenhouse|
+| ???       | e00fce68277aca12597b144b| West Monitor (BLE) | Zoo greenhouse|
 
 ### Botanical Garden access point (CradlePoint from city):
 * SSID: CNMIOT
