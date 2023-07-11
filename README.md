@@ -11,8 +11,8 @@
 ## Roomba Robots
 |      Device      |    Serial Number        | Task |          Location   |
 |------------------|-------------------------|------|-------------|
-|        | | IoT Assignment  |IoT Classroom |
-| void        | e00fce681943526ab5427418| Android Development |STEMulus |
+| eventHorizon     | e00fce6893f2f3d83ca6aa66| IoT Assignment  |IoT Classroom |
+| void             | e00fce681943526ab5427418| Android Development |STEMulus |
 
 ## ABQ BioPark
 |      Device      |    Serial Number        | Task |          Location   |
