@@ -38,6 +38,11 @@
 * SSID: CSBWiFi
 * PASS: CSB2117!
 
+## Telemetry Insights
+|      Device      |    Serial Number        | Task |          Location   |
+|------------------|-------------------------|------|-------------|
+| jill       | e00fce68793782ef524b65f9| BLE relay controller  | Fuse Classroom |
+
 ## City of Albuquerque
 |      Device      |    Serial Number        | Task |          Location   |
 |------------------|-------------------------|------|-------------|
