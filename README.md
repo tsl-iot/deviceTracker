@@ -39,9 +39,9 @@
 * PASS: CSB2117!
 
 ## Telemetry Insights
-|      Device      |    Serial Number        | Task |          Location   |
-|------------------|-------------------------|------|-------------|
-| jill       | e00fce68793782ef524b65f9| BLE relay controller  | Fuse Classroom |
+|      Device      |    Serial Number        | BLE Address |  Task |          Location   |
+|------------------|-------------------------|-------------|-------|--------------|
+| jill       | e00fce68793782ef524b65f9| F0:02:D0:02:C8:7A| BLE relay controller  | Fuse Classroom |
 
 ## City of Albuquerque
 |      Device      |    Serial Number        | Task |          Location   |
