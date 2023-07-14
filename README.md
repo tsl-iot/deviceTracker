@@ -42,6 +42,7 @@
 |      Device      |    Serial Number        | BLE Address |  Task |          Location   |
 |------------------|-------------------------|-------------|-------|--------------|
 | jill       | e00fce68793782ef524b65f9| F0:02:D0:02:C8:7A| BLE relay controller  | Fuse Classroom |
+|babylon     | e00fce6814a111e3c3e59493| DB:36:E1:47:29:5F  | BLE command | Fuse Classroom|
 
 ## City of Albuquerque
 |      Device      |    Serial Number        | Task |          Location   |
