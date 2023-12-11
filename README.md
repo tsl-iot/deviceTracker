@@ -7,6 +7,7 @@
 | bronzefist        | e00fce68225c1fbedb2449cd| APLazer Monitor |FUSE - Laser Room |
 | cadmiumfist        | e00fce68407bea0843f76bf5| Fan Controller  |FUSE - Laser Room |
 | mercuryfist       | e00fce68d1612990b3d7f1a5| Propane Scale | FUSE - propane tank|
+| nickelfist       | e00fce68793782ef524b65f9 | Epilog Compressors | FUSE - Laser Room |
 
 ## Roomba Robots
 |      Device      |    Serial Number        | Task |          Location   |
