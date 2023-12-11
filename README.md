@@ -34,6 +34,7 @@
 |------------------|-------------------------|------|-------------|
 | CenturyOne       | e00fce687131b33d2d92f1c8| Room Humidity/VOCs  | Century Sign |
 | ???        | ???| Fan Controller |Century Sign |
+| CentruyThree     | e00fce68ca8cbc5418bc3d2c| Fan Controller (New) | Century Sign |
 
 ### Century Sign WiFi
 * SSID: CSBWiFi
