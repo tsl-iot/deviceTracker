@@ -51,3 +51,12 @@
 |------------------|-------------------------|------|-------------|
 | oscar       | e00fce6809ab9d6bac27ecc6| Trash Can LoRa relay | City Hall - Tom Pino |
 | ???       | ???| Trash Can monitor | City Hall - Tom Pino |
+
+
+
+## Mandy's Farm
+|      Device      |    Serial Number        | Task |          Location   |
+|------------------|-------------------------|------|-------------|
+| cabbage      | [e00fce6824f9133633f9eafc| ???  |currently classroom |
+| raddish      | [e00fce68e5be047f5f12bcec| ???  |currently classroom |
+
